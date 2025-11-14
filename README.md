@@ -31,7 +31,7 @@ I created this project by following a YouTube tutorial and customized it as part
 
 ![Dashboard](https://github.com/Priyanshu1229/Credit-Card-Financial-Dashboard/blob/main/Credit%20card%20Report%20SS/Screenshot%202025-11-14%20141124.png)
 
-![Dashboard](screenshots/dashboard.png)
+![Dashboard](https://github.com/Priyanshu1229/Credit-Card-Financial-Dashboard/blob/main/Credit%20card%20Report%20SS/Screenshot%202025-11-14%20141045.png)
 
 
 
